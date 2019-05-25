@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Witaj na stronie z projektami
+
+[I'm an inline-style link](https://www.google.com)
 
 You can use the [editor on GitHub](https://github.com/Gedokawa/projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
